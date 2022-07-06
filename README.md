@@ -11,3 +11,4 @@ PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
 - RS232 on board (option)
 - Composite output, support both PAL and NTSC (There is a footprint to install 3.579MHz oscilator for NTSC)
 - Use standard ZX Spectrum Adapter, 9V with center pin negative (-)ZX Spectrum Clone base on Harlequin by 
+![Board](https://github.com/DonSuperfo/Superfo-Harlequin-128/blob/main/Issue%204A/HARLEQUIN%20128%20Issue%204A.jpg)
