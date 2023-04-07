@@ -20,3 +20,7 @@ You can Superfo Harlequin 128 issue 3H from PCBWay through this link:
 You can Superfo Harlequin 128 issue 4A from PCBWay through this link:
 
 <a href="https://www.pcbway.com/project/shareproject/Superfo_Harlequin_128_Issue_4A_402143c0.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
+You can Superfo Harlequin 128 issue 4B from PCBWay through this link:
+
+<a href="https://www.pcbway.com/project/shareproject/Superfo_Harlequin_128_Issue_4B_923ea18a.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
