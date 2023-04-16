@@ -13,14 +13,14 @@ PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
 - Use standard ZX Spectrum Adapter, 9V with center pin negative (-) 
 ![Board](https://github.com/DonSuperfo/Superfo-Harlequin-128/blob/main/Issue%204A/HARLEQUIN%20128%20Issue%204A.jpg)
 
-You can Superfo Harlequin 128 issue 3H from PCBWay through this link:
+You can buy Superfo Harlequin 128 issue 3H PCB from PCBWay through this link:
 
 <a href="https://www.pcbway.com/project/shareproject/Superfo_Harlequin_128_Issue_3H.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
-You can Superfo Harlequin 128 issue 4A from PCBWay through this link:
+You can buy Superfo Harlequin 128 issue 4A PCB from PCBWay through this link:
 
 <a href="https://www.pcbway.com/project/shareproject/Superfo_Harlequin_128_Issue_4A_402143c0.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
-You can Superfo Harlequin 128 issue 4B from PCBWay through this link:
+You can buy Superfo Harlequin 128 issue 4B PCB from PCBWay through this link:
 
 <a href="https://www.pcbway.com/project/shareproject/Superfo_Harlequin_128_Issue_4B_923ea18a.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
